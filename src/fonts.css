@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: "Bodoni Moda";
     font-style: normal;
     font-weight: normal;
@@ -10,7 +10,7 @@
     font-style: normal;
     font-weight: bold;
     src: url("/fonts/BodoniModa_Bold.ttf") format("truetype");
-}
+} */
 
 @font-face {
     font-family: "Inter";
@@ -24,4 +24,11 @@
     src: url("/fonts/PTMono_Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url("/fonts/PlayfairDisplay.ttf") format("truetype");
+    /* Variable */
+    font-weight: 400 700 900;
 }
