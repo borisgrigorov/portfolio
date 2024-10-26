@@ -6,4 +6,17 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+.font-bodoni{
+	font-family: 'Bodoni Moda', serif;
+}
+
+.font-inter{
+	font-family: 'Inter', sans-serif;
+}
+
+.font-mono{
+	font-family: "PT Mono", monospace;
 }
