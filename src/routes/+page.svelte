@@ -17,6 +17,6 @@
 <Seo
     title="Boris Grigorov | Software Engineer"
     description="Creative developer focused on building impactful web and mobile applications with seamless user experiences. Explore my portfolio to see projects that blend innovation with real-world usability"
-    image="{$page.url.host}/images/og.svg"
+    image="{$page.url.origin}/images/og.png"
     sitename="Boris Grigorov"
 />
