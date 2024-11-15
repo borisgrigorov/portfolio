@@ -15,7 +15,7 @@
 </div>
 
 <Seo
-    title="Boris Grigorov | Software Engineer"
+    title="Boris Grigorov | Software Developer"
     description="Creative developer focused on building impactful web and mobile applications with seamless user experiences. Explore my portfolio to see projects that blend innovation with real-world usability"
     image="{$page.url.origin}/images/og.png"
     sitename="Boris Grigorov"

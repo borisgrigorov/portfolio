@@ -12,14 +12,14 @@
             title="Lead Software Engineer"
             link="https://airmobis.com"
             company="Airmobis s.r.o."
-            date="2023 - Present"
+            date="09/2023 - Present"
             description="Development of mobile and web application with complex backend services for platform geoWork for connection drones and in-field workers with wide variety of use cases. When time matters or resources are limited..."
         />
         <Experience
             title="Full Stack Engineer"
             link="https://g-yachts.com"
             company="G-Yachts"
-            date="2024"
+            date="05/2024 - 10/2024"
             description="At G-Yachts, a yacht brokerage company, I developed the company website and an administration panel with integration to external data providers."
         />
         <span class="text-accent text-5xl">

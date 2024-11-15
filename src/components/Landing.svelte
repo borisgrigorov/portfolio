@@ -39,7 +39,7 @@
             class="font-mono text-2xl md:text-4xl text-secondary mt-4 opacity-0 -translate-y-8"
             id="landing-subtitle"
         >
-            Software development
+            Software developer
         </h2>
     </div>
     <div class="w-full grid place-items-center mb-16">
